@@ -12,8 +12,10 @@
 
 ;;; Commentary:
 
-;; A cornucopia of useful interactive commands to make your Emacs
-;; experience more enjoyable.
+;; This package will send an anonymous request to https://time.siswadi.com/pray/
+;; to get the list of salah time, then return requested time and wakting time
+;; via libnotify.
+
 
 ;;; License:
 
