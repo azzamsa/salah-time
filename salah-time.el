@@ -6,7 +6,7 @@
 ;; URL: https://github.com/azzansa/salah-time
 ;; Version: 0.1.0
 ;; Keywords: convenience
-;; Package-Requires: ((request "20181129.1138"))
+;; Package-Requires: ((request "0.3.0"))
 
 ;; This file is not part of GNU Emacs.
 
