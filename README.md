@@ -1,5 +1,9 @@
 # Salah Time
 
+> 📢 **PSA**: Archived repository. Now I am using
+> [py3s-salaah-time](https://github.com/azzamsa/py3s-salaah-time) in my
+> Py3status
+
 Salah Time is a GNU Emacs package that lets  you see [salah time](https://en.wikipedia.org/wiki/Salah) in Emacs:
 
 
